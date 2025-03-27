@@ -1,0 +1,1 @@
+A Telegram bot that stores links. You can give the bot a large number of links, after which you can tell the bot to give you one of the links. This is useful if you put off reading documentation or news for later.
