@@ -1,3 +1,3 @@
 module read-adviser-bot
 
-go 1.24.1
+go 1.17
